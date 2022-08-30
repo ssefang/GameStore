@@ -1,5 +1,6 @@
 ﻿@model IEnumerable<GameStore.Models.Product>
 
+
 @{
     ViewData["Title"] = "Index";
 }
@@ -43,7 +44,9 @@
                 @Html.DisplayFor(modelItem => item.Price)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.ImageUrl)
+                    <div class="display-field">
+                        <img src="@Url.Content(@item.ImageUrl)" alt="@item.Name" />
+                    </div>
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Category.Name)
