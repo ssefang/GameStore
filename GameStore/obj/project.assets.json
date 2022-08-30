@@ -10326,11 +10326,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fangz\\Desktop\\application development II\\GameStore\\GameStore\\GameStore.csproj",
+      "projectUniqueName": "C:\\Users\\fangz\\Documents\\GitHub\\GameStore\\GameStore\\GameStore.csproj",
       "projectName": "GameStore",
-      "projectPath": "C:\\Users\\fangz\\Desktop\\application development II\\GameStore\\GameStore\\GameStore.csproj",
+      "projectPath": "C:\\Users\\fangz\\Documents\\GitHub\\GameStore\\GameStore\\GameStore.csproj",
       "packagesPath": "C:\\Users\\fangz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fangz\\Desktop\\application development II\\GameStore\\GameStore\\obj\\",
+      "outputPath": "C:\\Users\\fangz\\Documents\\GitHub\\GameStore\\GameStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fangz\\AppData\\Roaming\\NuGet\\NuGet.Config",

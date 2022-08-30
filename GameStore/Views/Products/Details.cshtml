@@ -32,7 +32,11 @@
             @Html.DisplayNameFor(model => model.ImageUrl)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.ImageUrl)
+</div>
+<div class="display-field">
+    <img src="@Url.Content(@Model.ImageUrl)" alt="@Model.Name" />
+</div>
+           
         </dd>
         <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.Category)

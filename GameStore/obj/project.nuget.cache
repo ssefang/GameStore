@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NRtVYHM8+iYjBU7rvZUjvjHwoA12aVo1lT1e2ql58mR7/gS/MTHTjmeirF3Ob8toPQXX4Vrx5u2ynpAB2Q4O2g==",
+  "dgSpecHash": "jvMwj66Cym1BuCh4ftOC3fXnyFUuYely1JoXHLggtD2o7t10FIN3yDyb6Qn9p1iGFc8QLaT/Y/FAZ87UYfbDdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fangz\\Desktop\\application development II\\GameStore\\GameStore\\GameStore.csproj",
+  "projectFilePath": "C:\\Users\\fangz\\Documents\\GitHub\\GameStore\\GameStore\\GameStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fangz\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\fangz\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
